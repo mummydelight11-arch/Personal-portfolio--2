@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Your Name | Web Developer</title>
+<title>DELIGHT | Web Developer</title>
 <meta name="description" content="Portfolio of Your Name – Frontend developer building fast, accessible websites.">
 <style>
   :root{
@@ -100,7 +100,7 @@
       <a href="#contact" class="btn">Hire Me</a>
     </div>
     <div class="avatar">
-      <img src="image5.jpg" alt="Portrait of Your Name">
+      <img src="me.jpg" alt="Portrait of Your Name">
     </div>
   </section>
 
